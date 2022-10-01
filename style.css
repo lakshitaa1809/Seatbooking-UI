@@ -19,7 +19,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--dark-text);
   color: #fff;
-  font-size: 24px;
+  font-size: 20px;
 }
 li {
   list-style: none;
@@ -29,26 +29,17 @@ a {
 }
 .movie-select {
   width: auto;
-  margin-top: 100px;
-  font-size: 30px;
+  margin-top: 80px;
+  font-size: 24px;
   text-align: center;
   justify-content: center;
 }
 select {
   height: 50px;
-  font-size: 26px;
+  font-size: 24px;
   margin-left: 50px;
   align-items: center;
   justify-content: center;
-}
-
-ol {
-  display: flex;
-  flex-direction: row;
-  gap: 100px;
-  text-align: center;
-  justify-content: center;
-  margin: 40px 800px;
 }
 
 ul {
@@ -56,7 +47,7 @@ ul {
   flex-direction: row;
   text-align: center;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 30px;
   margin-left: 10px;
   gap: 50px;
 }
@@ -104,11 +95,11 @@ p {
   border-style: solid;
   width: 600px;
   height: 150px;
-  margin-left: 430px;
+  margin-left: 400px;
   transform: rotateX(-30deg);
 }
 .seat-arrange {
-  margin-left: 450px;
+  margin-left: 420px;
   margin-top: 50px;
   display: flex;
   flex-direction: row;
@@ -116,7 +107,7 @@ p {
 }
 
 .seat-arrange1 {
-  margin-left: 540px;
+  margin-left: 640px;
   position: relative;
   bottom: 340px;
   display: flex;
@@ -124,7 +115,7 @@ p {
   gap: 20px;
 }
 .seat-arrange2 {
-  margin-left: 950px;
+  margin-left: 750px;
   position: relative;
   bottom: 682px;
   display: flex;
