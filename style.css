@@ -29,7 +29,7 @@ a {
 }
 .movie-select {
   width: auto;
-  margin-top: 80px;
+  margin-top: 50px;
   font-size: 24px;
   text-align: center;
   justify-content: center;
@@ -47,7 +47,7 @@ ul {
   flex-direction: row;
   text-align: center;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 10px;
   margin-left: 10px;
   gap: 50px;
 }
@@ -97,6 +97,7 @@ p {
   height: 150px;
   margin-left: 400px;
   transform: rotateX(-30deg);
+  margin-top:10px;
 }
 .seat-arrange {
   margin-left: 420px;
@@ -107,7 +108,7 @@ p {
 }
 
 .seat-arrange1 {
-  margin-left: 640px;
+  margin-left: 500px;
   position: relative;
   bottom: 340px;
   display: flex;
