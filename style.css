@@ -104,11 +104,11 @@ p {
   border-style: solid;
   width: 600px;
   height: 150px;
-  margin-left: 730px;
+  margin-left: 430px;
   transform: rotateX(-30deg);
 }
 .seat-arrange {
-  margin-left: 750px;
+  margin-left: 450px;
   margin-top: 50px;
   display: flex;
   flex-direction: row;
@@ -116,7 +116,7 @@ p {
 }
 
 .seat-arrange1 {
-  margin-left: 940px;
+  margin-left: 540px;
   position: relative;
   bottom: 340px;
   display: flex;
@@ -124,7 +124,7 @@ p {
   gap: 20px;
 }
 .seat-arrange2 {
-  margin-left: 1150px;
+  margin-left: 950px;
   position: relative;
   bottom: 682px;
   display: flex;
